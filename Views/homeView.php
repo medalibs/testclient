@@ -28,7 +28,7 @@ Hello    <?php echo $login ; ?>
       <textarea id="msg-to-send" rows="4" cols="50">
 
       </textarea>
-      <div id="send-msg" class="btn-default" >send</div>
+      <div id="send-msg" class="btn-primary" >send</div>
     </div>
 
   </div>
