@@ -1,5 +1,17 @@
 ## Pour tester en ligne http://151.80.233.151/testclient/index.php?controller=User&action=inscription
 
+
+Fichier de configuration /Config/params.ini
+
+```
+; Configuration
+
+[DB]
+dsn = 'mysql:host=localhost;dbname=test0'
+login = root
+pwd = root
+```
+
 Les tables de la base sous : /data/data.sql
 
 Table des utilisateurs
